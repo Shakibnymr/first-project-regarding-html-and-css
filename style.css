@@ -20,6 +20,42 @@ margin-right: 10px;
 padding: 10px;
 font-size: larger;
 font-family: Arial, Helvetica, sans-serif;
+cursor: pointer;
 
+}
+.item:hover{
+color: rgb(81, 81, 99);
 
+}
+.banner-img{
+width: 550px;
+
+}
+.banner-container{
+display: flex;
+justify-content: space-around;
+align-items: center;
+height: 450px;
+border: 2px solid gray;
+background-image: url(mustard\ field.png);
+background-size: 100%;
+}
+.title{font-size: 55px;
+font-weight: bold;}
+span{
+    font-size: larger;
+    background-color: blue;
+}
+.description{
+font-size: 18px;
+margin-top: 15px;
+margin-bottom: 15px;
+
+}
+.btn{
+    padding: 10px 20px ;
+    background-color: rgb(53, 8, 53);
+    color: rgb(172, 156, 156);
+    border: none;
+    
 }
