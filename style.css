@@ -1,0 +1,25 @@
+*{margin: 0;
+padding: 0;}
+.menu-container{
+background-color: rgb(37, 36, 36);
+list-style: none;
+display: flex;
+justify-content: space-around;
+align-items: center;
+} .img{
+width: 100px; height: 110px;
+padding: 20px;
+
+}
+.menus{
+color: lightblue;
+display: flex;
+}
+.item{
+margin-right: 10px;
+padding: 10px;
+font-size: larger;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
