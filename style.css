@@ -38,7 +38,7 @@ align-items: center;
 height: 450px;
 border: 2px solid gray;
 background-image: url(mustard\ field.png);
-background-size: 100%;
+background-size: cover;
 }
 .title{font-size: 55px;
 font-weight: bold;}
@@ -58,4 +58,18 @@ margin-bottom: 15px;
     color: rgb(172, 156, 156);
     border: none;
     
+}
+.abt-container{
+display: flex;
+justify-content: space-around;
+align-items: center; padding: 10px;
+
+
+}
+.img3{
+width: 550px;
+
+}
+.abt-ttl{
+    text-align: center; padding: auto;
 }
