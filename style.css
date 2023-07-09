@@ -73,3 +73,27 @@ width: 550px;
 .abt-ttl{
     text-align: center; padding: auto;
 }
+.box{ width: 230px;
+height: 250px;
+box-shadow: 4px 4px 15px gray;
+background-color: rgb(17, 13, 13);
+text-align: center;
+padding: 12px;
+color: white;
+}
+.icon{
+width: 100px;
+
+}
+.box-description{
+
+    padding: 5px;
+}
+.service-container{
+display: flex;
+justify-content: space-around;
+padding: 14px;
+background-color: line;
+margin-top: 6px;
+background-color: rgb(36, 27, 27);
+}
